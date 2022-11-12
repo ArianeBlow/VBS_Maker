@@ -5,7 +5,7 @@ Create VBS script from CLI
 ## Usage :
 
 ### Lunch the script and type what you whant to be executed via VBA Macro script, then type "finish" and that's all !
-![](https://github.com/ArianeBlow/VBS_Maker/blob/main/macro_maker.gif)
+![](https://github.com/ArianeBlow/VBS_Maker/blob/main/macro_maker1.gif)
 
 
 
